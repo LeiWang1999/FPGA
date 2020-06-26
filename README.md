@@ -42,6 +42,17 @@
     - Xilinx大学计划书目，比较推荐，但是没找到PDF,并且还有配套的Basys3/EGO1例程([仓库地址](https://github.com/xupsh/Digital-Design-Lab))
   - [Verilog数字系统设计教程 夏宇闻](http://leiblog.wang/static/FPGA/books/Verilog数字系统设计教程夏宇闻.pdf)
   - [Verilog经典教程 夏宇闻](http://leiblog.wang/static/FPGA/books/夏宇闻-Verilog经典教程.pdf)
+- 网路上生动的大神教程
+  - [Artix7修炼秘籍](http://leiblog.wang/static/FPGA/books/00《Artix7修炼秘籍》-MIA701第一季.pdf)
+  - [Verilog那些事儿](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/)
+    - [驱动篇](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/02Veilog那些事儿-驱动篇I.pdf)
+    - [时续篇](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/03Verilog_HDL_那些事儿_时序篇v2.pdf)
+    - [建模篇](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/04VerilogHDL那些事儿_建模篇.pdf)
+    - [整合篇](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/05VerilogHDL那些事儿-整合篇.pdf)
+  - [Xilinx原语的使用方法](http://leiblog.wang/static/FPGA/books/xilinx原语的使用方法.pdf)
+  - [FPGA自学笔记-设计与验证](http://leiblog.wang/static/FPGA/books/FPGA自学笔记——设计与验证公开版.pdf)
+- 官方pdf文档
+  - [Vivado从此开始](http://leiblog.wang/static/FPGA/books/Vivado从此开始/)
 - Xilinx 入门视频
   - [Digilent Basys3 手把手教学](https://space.bilibili.com/511019924/channel/detail?cid=134957)
     - 顺便学一下Vivado如何使用
