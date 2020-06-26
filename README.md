@@ -2,6 +2,8 @@
 
 本项目旨在**帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目**。
 
+[为本项目作出贡献](#github)
+
 <h2 align="center">一、入门资料</h2>
 
 <h3>FPGA相关门户网站</h3>
@@ -13,7 +15,7 @@
 - [Digilent 中国](http://www.digilent.com.cn/)
 - [opencores 开源硬件IP站](https://opencores.org/)
 
-<h3>每个人都应该会使用GitHub</h3>
+<h3 id="github">每个人都应该会使用GitHub</h3>
 
 - [廖雪峰的Git教程]( https://www.liaoxuefeng.com/wiki/896043488029600 )
 - [Github Guides](https://guides.github.com/activities/hello-world/)
@@ -51,6 +53,7 @@
     - [整合篇](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/05VerilogHDL那些事儿-整合篇.pdf)
   - [Xilinx原语的使用方法](http://leiblog.wang/static/FPGA/books/xilinx原语的使用方法.pdf)
   - [FPGA自学笔记-设计与验证](http://leiblog.wang/static/FPGA/books/FPGA自学笔记——设计与验证公开版.pdf)
+  - [Verilog开发经验总结](http://leiblog.wang/static/FPGA/books/Verilog开发经验总结.pdf)
 - 官方pdf文档
   - [Vivado从此开始](http://leiblog.wang/static/FPGA/books/Vivado从此开始/)
 - Xilinx 入门视频
@@ -62,13 +65,17 @@
     - 别家的FPGA，学习语法、驱动，也是没问题的。
   - [芯航线 FPGA从零到入门](https://www.bilibili.com/video/BV1tW411v78j?from=search&seid=11737352508875302131)
 
-<h3>飞速提升开发效率⭐</h3>
+<h3>飞速提升开发效率✈️</h3>
 
 - [VsCode取代Vivado自带编辑器](https://editor.csdn.net/md/?articleId=84668833)
 - [使用板卡文件自动配置环境(板卡芯片、DDR等)](https://www.bilibili.com/s/video/BV1zg4y1q7Jd)
 - [ModelSim与Matlab搭建图像仿真环境(无需上板即可验证Verilog算法!)](http://leiblog.wang/technicaldetail/5e397c7937a947e1fa893314)
 
+<h3>规范你的工程🌟</h3>
 
+- [华为verilog编程规范](http://leiblog.wang/static/FPGA/books/standard/华为verilog编程规范.pdf)
+
+<h2 align="center">二、进阶资料</h2>
 
 <h2 align="center">三、优秀项目</h2>
 
@@ -95,7 +102,24 @@
 
 <h3>优秀开源项目 - 初级</h3>
 
+- [带闹钟功能的计数器](https://github.com/LeiWang1999/DigitalAlarmClock)
+  - 板卡:`Nexys4 DDR`
+  - 功能
+    - 支持I2S协议驱动的音响，接入耳机播放闹钟
+    - 支持VGA显示剩余时间
+    - 支持闹钟计数时钟变速(一倍速和五倍速)
+- [搭建你的数字积木 配套工程](https://github.com/xupsh/Digital-Design-Lab)
+  - 板卡:`Basys3`|`EGO-1`
+  - 配套图书:[搭建你的数字积木](https://book.douban.com/subject/30242443/)
+
 <h3>优秀开源项目 - 中级</h3>
+
+- [基于FPGA的机器博弈五子棋游戏](https://github.com/Starrynightzyq/ZYNQ-PYNQ-Z2-Gobang)
+  - 板卡:`PYNQ-Z2`
+  - 2018全国大学生FPGA创新设计邀请赛一等奖、最佳创意奖
+- [CM3软核 FPGA 车牌识别系统](https://github.com/Starrynightzyq/Nexys4DDR-ARM-M3-Plate-Recognition)
+  - 板卡:`Nexys4 DDR`
+  - 全国大学生集成电路创新创业大赛参赛作品
 
 <h3>优秀开源项目 - 高级</h3>
 
