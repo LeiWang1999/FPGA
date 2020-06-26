@@ -6,7 +6,7 @@
 
 一、Fork一份该项目到自己的仓库中。
 
-![](http://leiblog.wang/static/image/2020/6/47weiV.png)
+![](http://leiblog.wang/static/image/2020/6/7DUigv.png)
 
 二、进到自己fork的项目中，Clone或者Download Zip 下载到本地。
 
