@@ -6,11 +6,14 @@
 
 一、Fork一份该项目到自己的仓库中。
 
+![](http://leiblog.wang/static/image/2020/6/47weiV.png)
+
 二、进到自己fork的项目中，Clone或者Download Zip 下载到本地。
+
+![](http://leiblog.wang/static/image/2020/6/4J82Or.png)
 
 三、在主分支或者自己创建一个新的分支(比较推荐新建分支)，修改，递交。
 
 四、找到New Pull Request、递交分支。
 
 五、我来Review你的递交，决定是否合并。
-
