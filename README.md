@@ -2,7 +2,7 @@
 
 本项目旨在**帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目**。
 
-[为本项目作出贡献](#github)
+[一起为本项目作出贡献](#github)
 
 <h2 align="center">一、入门资料</h2>
 
@@ -13,6 +13,7 @@
 - [Xilinx Open Hardware](http://www.openhw.org/)
 - [Altera](https://www.intel.cn/content/www/cn/zh/products/programmable.html)
 - [Digilent 中国](http://www.digilent.com.cn/)
+- [米联客](https://www.uisrc.com/portal.php)
 - [opencores 开源硬件IP站](https://opencores.org/)
 
 <h3 id="github">每个人都应该会使用GitHub</h3>
@@ -77,6 +78,28 @@
 
 <h2 align="center">二、进阶资料</h2>
 
+<h3>SOC System on Chip</h3>
+
+> Xilinx系列最全最详细的文档其实是官方提供的 [Xilinx Docnav](https://china.xilinx.com/support/documentation-navigation/overview.html)
+>
+> https://www.zhihu.com/question/56596019
+
+- [MicroBlaze](https://china.xilinx.com/products/design-tools/microblaze.html)
+
+- ZYNQ
+  - [The ZYNQ Book](http://www.zynqbook.com/)
+  - [The ZYNQ Book 中文版](http://leiblog.wang/static/FPGA/books/The_Zynq_Book_ebook_chinese.pdf)
+  - [MicroZed 300多篇教学博客](http://adiuvoengineering.com/microzed-chronicles/?tdsourcetag=s_pctim_aiomsg)
+
+- [PYNQ](http://www.pynq.io/)
+  - [Github](https://github.com/Xilinx/Pynq)
+  - [Docs](https://pynq.readthedocs.io/en/v2.5.1/)
+  - [DIscuss](https://discuss.pynq.io/)
+
+<h3>HLS High-Level Synthesis</h3>
+
+- [Xilinx 官方教程](http://xilinx.eetop.cn/list-83-1.html)
+
 <h2 align="center">三、优秀项目</h2>
 
 <h3>官方开源项目</h3>
@@ -94,11 +117,13 @@
   - [AX301](https://github.com/alinxalinx/AX301)
   - [AX7020](https://github.com/alinxalinx/AX7020)
   - [AX7015](https://github.com/alinxalinx/AX7015)
-
 - [Digilent 官方仓库](https://github.com/Digilent)
   - [vivado-library 很多好用的IP-VGA、HDMI等](https://github.com/Digilent/vivado-library)
   - [vivado-boards Digilent开发板的板卡文件](https://github.com/Digilent/vivado-boards)
     - [使用板卡文件，让你的设计事半功倍](https://www.bilibili.com/s/video/BV1zg4y1q7Jd)
+  - [Digilent 大神用户们的项目](http://www.digilent.com.cn/project/all/open.html)
+- [赛灵思中文学习资料和开源设计](https://github.com/xupsh)
+  - [74LSXX 芯片IP](https://github.com/xupsh/Digital-Design-Reference-Design/tree/dd239f50d5117917479b7a3b51eeb8a0d6945cc9/Library/74LSXX_Lib)
 
 <h3>优秀开源项目 - 初级</h3>
 
@@ -123,3 +148,6 @@
 
 <h3>优秀开源项目 - 高级</h3>
 
+- [PYNQ集群 类脑计算](https://github.com/OpenHEC/SNN-simulator-on-PYNQcluster)
+  - 板卡:`PYNQ`
+  - 全国大学生FPGA创新设计作品
