@@ -19,3 +19,13 @@
 ![](http://leiblog.wang/static/image/2020/6/iqfVQt.png)
 
 五、我来Review你的递交，决定是否合并。
+
+> 如果有PDF图书或其他资源需要上传，可以联系我上传
+>
+> CONTACT:
+>
+> QQ: 2230647190
+>
+> Wechat: wanglei199901
+>
+> E-mail:2230647190@qq.com
