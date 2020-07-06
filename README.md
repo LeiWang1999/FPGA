@@ -45,6 +45,7 @@
     - Xilinx大学计划书目，比较推荐，但是没找到PDF,并且还有配套的Basys3/EGO1例程([仓库地址](https://github.com/xupsh/Digital-Design-Lab))
   - [Verilog数字系统设计教程 夏宇闻](http://leiblog.wang/static/FPGA/books/Verilog数字系统设计教程夏宇闻.pdf)
   - [Verilog经典教程 夏宇闻](http://leiblog.wang/static/FPGA/books/夏宇闻-Verilog经典教程.pdf)
+  - [深入浅出FPGA](http://leiblog.wang/static/FPGA/books/深入浅出FPGA.pdf)
 - 网路上生动的大神教程
   - [Artix7修炼秘籍](http://leiblog.wang/static/FPGA/books/00《Artix7修炼秘籍》-MIA701第一季.pdf)
   - [Verilog那些事儿](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/)
@@ -57,6 +58,7 @@
   - [Verilog开发经验总结](http://leiblog.wang/static/FPGA/books/Verilog开发经验总结.pdf)
 - 官方pdf文档
   - [Vivado从此开始](http://leiblog.wang/static/FPGA/books/Vivado从此开始/)
+  - [Verilog HDL程序设计与实践 Xilinx大学计划](http://leiblog.wang/static/FPGA/books/Verilog HDL程序设计与实践 .pdf)
 - Xilinx 入门视频
   - [Digilent Basys3 手把手教学](https://space.bilibili.com/511019924/channel/detail?cid=134957)
     - 顺便学一下Vivado如何使用
@@ -75,6 +77,7 @@
 <h3>规范你的工程🌟</h3>
 
 - [华为verilog编程规范](http://leiblog.wang/static/FPGA/books/standard/华为verilog编程规范.pdf)
+- [IEEE_Verilog](http://leiblog.wang/static/FPGA/books/standard/IEEE_Verilog.pdf)
 
 <h2 align="center">二、进阶资料</h2>
 
@@ -96,9 +99,15 @@
   - [Docs](https://pynq.readthedocs.io/en/v2.5.1/)
   - [DIscuss](https://discuss.pynq.io/)
 
-<h3>HLS High-Level Synthesis</h3>
+<h3>HLS High-Level Synthesis</h3
 
 - [Xilinx 官方教程](http://xilinx.eetop.cn/list-83-1.html)
+
+<h3>计算机体系结构</h3>
+
+- [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
+
+
 
 <h2 align="center">三、优秀项目</h2>
 
