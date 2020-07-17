@@ -107,6 +107,10 @@
 
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
 
+<h3>Hardware Driver</h3>
+
+- [AC620以太网驱动 芯航线](http://leiblog.wang/static/FPGA/books/HardwareDriver/AC620以太网设计与应用教程V1.0.pdf)
+
 
 
 <h2 align="center">三、优秀项目</h2>
