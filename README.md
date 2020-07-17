@@ -58,7 +58,7 @@
   - [Verilog开发经验总结](http://leiblog.wang/static/FPGA/books/Verilog开发经验总结.pdf)
 - 官方pdf文档
   - [Vivado从此开始](http://leiblog.wang/static/FPGA/books/Vivado从此开始/)
-  - [Verilog HDL程序设计与实践 Xilinx大学计划](http://leiblog.wang/static/FPGA/books/VerilogHDL程序设计与实践 .pdf)
+  - [Verilog HDL程序设计与实践 Xilinx大学计划](http://leiblog.wang/static/FPGA/books/VerilogHDL程序设计与实践.pdf)
 - Xilinx 入门视频
   - [Digilent Basys3 手把手教学](https://space.bilibili.com/511019924/channel/detail?cid=134957)
     - 顺便学一下Vivado如何使用
