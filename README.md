@@ -90,6 +90,7 @@
 - [MicroBlaze](https://china.xilinx.com/products/design-tools/microblaze.html)
 
 - ZYNQ
+  - [UG 585 最权威的官方文档](https://www.xilinx.com/support/documentation/user_guides/ug585-Zynq-7000-TRM.pdf)
   - [The ZYNQ Book](http://www.zynqbook.com/)
   - [The ZYNQ Book 中文版](http://leiblog.wang/static/FPGA/books/The_Zynq_Book_ebook_chinese.pdf)
   - [MicroZed 300多篇教学博客](http://adiuvoengineering.com/microzed-chronicles/?tdsourcetag=s_pctim_aiomsg)
