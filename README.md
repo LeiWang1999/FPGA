@@ -11,6 +11,7 @@
 - [Xilinx](https://www.xilinx.com/)
 - [Xilinx Forums](https://forums.xilinx.com/)
 - [Xilinx Open Hardware](http://www.openhw.org/)
+- [电子创新网Xilinx社区](http://xilinx.eetrend.com/)
 - [Altera](https://www.intel.cn/content/www/cn/zh/products/programmable.html)
 - [Digilent 中国](http://www.digilent.com.cn/)
 - [米联客](https://www.uisrc.com/portal.php)
@@ -62,6 +63,7 @@
 - Xilinx 入门视频
   - [Digilent Basys3 手把手教学](https://space.bilibili.com/511019924/channel/detail?cid=134957)
     - 顺便学一下Vivado如何使用
+  - [Vivado SDK工程移植到Vitis](https://forums.xilinx.com/t5/Xilinx-%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%8A%9F%E8%83%BD%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7/%E5%B0%86%E8%B5%9B%E7%81%B5%E6%80%9D-SDK-%E5%B7%A5%E7%A8%8B%E7%A7%BB%E6%A4%8D%E5%88%B0-Vitis-%E7%9A%84%E5%88%86%E6%AD%A5%E6%8C%87%E5%8D%97/ba-p/1066332)
 - Altera 入门视频
   - [正点原子 FPGA教学](https://www.bilibili.com/video/BV1Mb411E7gd?from=search&seid=11737352508875302131)
     - 如果买的是正点原子家的FPGA，可以白嫖很多项目。
