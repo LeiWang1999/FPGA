@@ -4,6 +4,9 @@
 
 [一起为本项目作出贡献](#github)
 
+<h2 align="center">零、镜像下载</h2>
+- [Vivado2020.1](http://leiblog.wang/static/FPGA/Xilinx_Unified_2020.1_0602_1208.tar.gz)
+
 <h2 align="center">一、入门资料</h2>
 
 <h3>FPGA相关门户网站</h3>
@@ -96,6 +99,7 @@
   - [The ZYNQ Book](http://www.zynqbook.com/)
   - [The ZYNQ Book 中文版](http://leiblog.wang/static/FPGA/books/The_Zynq_Book_ebook_chinese.pdf)
   - [MicroZed 300多篇教学博客](http://adiuvoengineering.com/microzed-chronicles/?tdsourcetag=s_pctim_aiomsg)
+  - [米联客 SOC 修炼秘籍](http://leiblog.wang/static/FPGA/books/ZYNQ/%E7%B1%B3%E8%81%94%E3%80%8AZYNQ%20SOC%E4%BF%AE%E7%82%BC%E7%A7%98%E7%B1%8D%E3%80%8B.pdf)
 
 - [PYNQ](http://www.pynq.io/)
   - [Github](https://github.com/Xilinx/Pynq)
