@@ -119,6 +119,7 @@
 
 - [AC620以太网驱动 芯航线](http://leiblog.wang/static/FPGA/books/HardwareDriver/AC620以太网设计与应用教程V1.0.pdf)
 
+- [Video Series 教你如何搭建视频通路](https://forums.xilinx.com/t5/Video-and-Audio/Xilinx-Video-Series/td-p/849583)
 
 
 <h2 align="center">三、优秀项目</h2>
