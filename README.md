@@ -121,6 +121,18 @@
 
 - [Video Series 教你如何搭建视频通路](https://forums.xilinx.com/t5/Video-and-Audio/Xilinx-Video-Series/td-p/849583)
 
+- UART
+  - [HDL 瓜大三哥](https://mp.weixin.qq.com/s?__biz=MzI4NjE3MzUwMA==&mid=2652138569&idx=1&sn=0fd5b6a75dd563bcc0a4480c8d095179&chksm=f0003c1ac777b50cff872bb53840fdc52a6f53bcef523cb5ecdf94aa3371fc398edfdf1b7807&token=1263105418&lang=zh_CN&scene=21#wechat_redirect)
+
+- IIC
+  - [HDL 瓜大三哥](https://mp.weixin.qq.com/s?__biz=MzI4NjE3MzUwMA==&mid=2652139704&idx=1&sn=817b2e70e4dc7ac3dd20db5306271ccd&chksm=f00020ebc777a9fda8234e95fd00d1c1fdc64fbbac4af9b03b63dbb2df8573fb8ac40a189810&scene=21#wechat_redirect)
+
+- SPI
+  - [HDL 瓜大三哥](https://mp.weixin.qq.com/s?__biz=MzI4NjE3MzUwMA==&mid=2652139702&idx=1&sn=c4b450e0913083e6e4d5db29a410924f&chksm=f00020e5c777a9f356ebd73fe9c0699c606f346d8c82d54e67e036d94a57f90edbce37fa5039&scene=21#wechat_redirect)
+
+- CAN
+  - [HDL 瓜大三哥](https://mp.weixin.qq.com/s?__biz=MzI4NjE3MzUwMA==&mid=2652138778&idx=1&sn=144a45d6f49f51613a399eac5ff7a257&chksm=f0003d49c777b45fa9dc06810638906f5fead6acc311b450c96d541f3cd44f35869809d722fd&token=272554766&lang=zh_CN&scene=21#wechat_redirect)
+
 
 <h2 align="center">三、优秀项目</h2>
 
