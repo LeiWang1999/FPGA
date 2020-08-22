@@ -111,6 +111,8 @@
 
 - [Xilinx 官方教程](http://xilinx.eetop.cn/list-83-1.html)
 
+- [FPGA 并行编程](https://github.com/xupsh/pp4fpgas-cn)
+
 <h3>计算机体系结构</h3>
 
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
