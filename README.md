@@ -79,6 +79,7 @@
 - [VsCode取代Vivado自带编辑器](https://editor.csdn.net/md/?articleId=84668833)
 - [使用板卡文件自动配置环境(板卡芯片、DDR等)](https://www.bilibili.com/s/video/BV1zg4y1q7Jd)
 - [ModelSim与Matlab搭建图像仿真环境(无需上板即可验证Verilog算法!)](http://leiblog.wang/technicaldetail/5e397c7937a947e1fa893314)
+- [Python实现Vivado和ModelSim仿真自动化](https://mp.weixin.qq.com/s/LvmzGJt4ywOUXO7TfyPtcg)
 
 <h3>规范你的工程🌟</h3>
 
