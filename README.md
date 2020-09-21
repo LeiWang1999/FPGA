@@ -11,6 +11,7 @@
 <h2 align="center">一、入门资料</h2>
 
 <h3>FPGA相关门户网站</h3>
+
 - [Xilinx](https://www.xilinx.com/)
 - [Xilinx Forums](https://forums.xilinx.com/)
 - [Xilinx Open Hardware](http://www.openhw.org/)
@@ -21,11 +22,13 @@
 - [opencores 开源硬件IP站](https://opencores.org/)
 
 <h3 id="github">每个人都应该会使用GitHub</h3>
+
 - [廖雪峰的Git教程]( https://www.liaoxuefeng.com/wiki/896043488029600 )
 - [Github Guides](https://guides.github.com/activities/hello-world/)
 - [如何参与到本项目的建设](docs/HowContribute.md)
 
 <h3>数字电路</h3>
+
 数字电路是学习FPGA的前提。
 
 如果没有学习过数字电路，先选择一本数字电路教程(下面的数字电路课本中选一本，或者用手头的数字电路课本),再选择一本Verilog教程。用Verilog实现一遍数字电路里的加法器等等，是很好的入门经历。
@@ -33,6 +36,7 @@
 - [电子技术基础 数字部分 (康华光.第5版)](http://leiblog.wang/static/FPGA/books/电子技术基础.数字部分.(康华光.第5版).pdf)
 
 <h3>Verilog HDL入门</h3>
+
 > HDL是硬件描述语言(Hardware Design Language)，使用这门语言的时候我们像是在**建模**，这点区别于编程语言，这往往是新手首先需要绕过来的难关！
 >
 > Xilinx和Altera是我们主要使用到的FPGA芯片厂商，此外还有国产的紫光、安陆等。对我们用户来说，他们的区别主要在于EDA软件的不同，比如Xilinx使用的是Vivado、Altera使用的是Quatus...
@@ -84,6 +88,7 @@
 
 <h2 align="center">二、进阶资料</h2>
 <h3>SOC System on Chip</h3>
+
 > Xilinx系列最全最详细的文档其实是官方提供的 [Xilinx Docnav](https://china.xilinx.com/support/documentation-navigation/overview.html)
 >
 > https://www.zhihu.com/question/56596019
