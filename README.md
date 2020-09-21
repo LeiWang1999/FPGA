@@ -75,6 +75,7 @@
   - [芯航线 FPGA从零到入门](https://www.bilibili.com/video/BV1tW411v78j?from=search&seid=11737352508875302131)
 
 <h3>飞速提升开发效率✈️</h3>
+
 - [VsCode取代Vivado自带编辑器](https://editor.csdn.net/md/?articleId=84668833)
 - [使用板卡文件自动配置环境(板卡芯片、DDR等)](https://www.bilibili.com/s/video/BV1zg4y1q7Jd)
   - [EGO1板卡文件]( https://github.com/LeiWang1999/FPGA/boards)
@@ -83,6 +84,7 @@
 - [Python实现Vivado和ModelSim仿真自动化](https://mp.weixin.qq.com/s/LvmzGJt4ywOUXO7TfyPtcg)
 
 <h3>规范你的工程🌟</h3>
+
 - [华为verilog编程规范](http://leiblog.wang/static/FPGA/books/standard/华为verilog编程规范.pdf)
 - [IEEE_Verilog](http://leiblog.wang/static/FPGA/books/standard/IEEE_Verilog.pdf)
 
@@ -107,16 +109,18 @@
   - [Docs](https://pynq.readthedocs.io/en/v2.5.1/)
   - [DIscuss](https://discuss.pynq.io/)
 
-<h3>HLS High-Level Synthesis</h3
+<h3>HLS High-Level Synthesis</h3>
 
 - [Xilinx 官方教程](http://xilinx.eetop.cn/list-83-1.html)
 
 - [FPGA 并行编程](https://github.com/xupsh/pp4fpgas-cn)
 
 <h3>计算机体系结构</h3>
+
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
 
 <h3>Hardware Driver</h3>
+
 - [AC620以太网驱动 芯航线](http://leiblog.wang/static/FPGA/books/HardwareDriver/AC620以太网设计与应用教程V1.0.pdf)
 
 - [Video Series 教你如何搭建视频通路](https://forums.xilinx.com/t5/Video-and-Audio/Xilinx-Video-Series/td-p/849583)
@@ -136,6 +140,7 @@
 
 <h2 align="center">三、优秀项目</h2>
 <h3>官方开源项目</h3>
+
 - [ALINX 黑金 官方仓库 (包含OV系列摄像头驱动、DDR驱动等)](https://github.com/alinxalinx)
   - [AC616](https://github.com/alinxalinx/AC616)
   - [AX4010](https://github.com/alinxalinx/AX4010)
@@ -158,6 +163,7 @@
   - [74LSXX 芯片IP](https://github.com/xupsh/Digital-Design-Reference-Design/tree/dd239f50d5117917479b7a3b51eeb8a0d6945cc9/Library/74LSXX_Lib)
 
 <h3>优秀开源项目 - 初级</h3>
+
 - [带闹钟功能的计数器](https://github.com/LeiWang1999/DigitalAlarmClock)
   - 板卡:`Nexys4 DDR`
   - 功能
@@ -169,6 +175,7 @@
   - 配套图书:[搭建你的数字积木](https://book.douban.com/subject/30242443/)
 
 <h3>优秀开源项目 - 中级</h3>
+
 - [基于FPGA的机器博弈五子棋游戏](https://github.com/Starrynightzyq/ZYNQ-PYNQ-Z2-Gobang)
   - 板卡:`PYNQ-Z2`
   - 2018全国大学生FPGA创新设计邀请赛一等奖、最佳创意奖
