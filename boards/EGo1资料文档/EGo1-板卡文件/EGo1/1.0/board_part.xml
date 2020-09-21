@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<board_part board_name="EGo1" board_revision="1.0" board_part="part0" schema_version="1.3" vendor="E-Elements.com" version="1.0">
+
+  <part_info part_name="xc7a35tcsg324-1" device="xc7a35t" family="artix7" jtag_position="1" package="csg324" silicon_version="1.0" speed_grade="1"/>
+
+  <board_info description="EGo1 Board" display_name="EGo1 Board" url="www.e-elements.com"/>
+
+  
+  <interfaces>
+   
+	
+    <interface mode="master" name="DIP_SW" type="xilinx.com:interface:gpio_rtl:1.0">
+      
+	  <port_maps>
+        <port_map logical_port="TRI_I" physical_port="DIP_SW"/>
+      </port_maps>
+	  
+    </interface>
+	
+    <interface mode="master" name="LED_16Bits" type="xilinx.com:interface:gpio_rtl:1.0">
+      
+	  <port_maps>
+        <port_map logical_port="TRI_O" physical_port="LED_16Bits"/>
+      </port_maps>
+	  
+    </interface>
+	
+    <interface mode="master" name="BTN_5Bits" type="xilinx.com:interface:gpio_rtl:1.0">
+      
+	  <port_maps>
+        <port_map logical_port="TRI_I" physical_port="BTN_5Bits"/>
+      </port_maps>
+	  
+    </interface>
+	
+	<interface mode="master" name="SEVEN_SEG_LED" type="xilinx.com:interface:gpio_rtl:1.0">
+      
+	  <port_maps>
+        <port_map logical_port="TRI_O" physical_port="SEVEN_SEG_LED"/>
+      </port_maps>
+	  
+    </interface>
+	
+	<interface mode="master" name="SEVEN_SEG_AN" type="xilinx.com:interface:gpio_rtl:1.0">
+      
+	  <port_maps>
+        <port_map logical_port="TRI_O" physical_port="SEVEN_SEG_AN"/>
+      </port_maps>
+	  
+    </interface>
+	
+    <interface mode="master" name="USB_Uart" type="xilinx.com:interface:uart_rtl:1.0">
+      
+	  <port_maps>
+        <port_map logical_port="TxD" physical_port="USB_Uart_TxD"/>
+        <port_map logical_port="RxD" physical_port="USB_Uart_RxD"/>
+      </port_maps>
+	  
+    </interface>
+	
+	
+    <interface mode="slave" name="sys_clock" type="xilinx.com:interface:clock_rtl:1.0">
+     
+	 <port_maps>
+        <port_map logical_port="CLK" physical_port="clk"/>
+      </port_maps>
+	  
+      <parameters>
+        <parameter name="frequency" value="100000000"/>
+      </parameters>
+	  
+	</interface>
+  
+    <interface mode="slave" name="Reset" type="xilinx.com:signal:reset_rtl:1.0">
+      <port_maps>
+        <port_map logical_port="RST" physical_port="RESET"/>
+      </port_maps>
+      <parameters>
+        <parameter name="RST_POLARITY" value="1"/>
+      </parameters>
+    </interface>
+	
+  </interfaces>
+
+  
+  <ports>
+    
+	<port name="DIP_SW" dir="in" left="15"  right="0">
+      <pins>
+        <pin index="0" iostandard="LVCMOS33" loc="V17"/>
+        <pin index="1" iostandard="LVCMOS33" loc="V16"/>
+        <pin index="2" iostandard="LVCMOS33" loc="W16"/>
+        <pin index="3" iostandard="LVCMOS33" loc="W17"/>
+		<pin index="4" iostandard="LVCMOS33" loc="W15"/>
+        <pin index="5" iostandard="LVCMOS33" loc="V15"/>
+        <pin index="6" iostandard="LVCMOS33" loc="W14"/>
+        <pin index="7" iostandard="LVCMOS33" loc="W13"/>
+		<pin index="8" iostandard="LVCMOS33" loc="V2"/>
+        <pin index="9" iostandard="LVCMOS33" loc="T3"/>
+        <pin index="10" iostandard="LVCMOS33" loc="T2"/>
+        <pin index="11" iostandard="LVCMOS33" loc="R3"/>
+		<pin index="12" iostandard="LVCMOS33" loc="W2"/>
+        <pin index="13" iostandard="LVCMOS33" loc="U1"/>
+        <pin index="14" iostandard="LVCMOS33" loc="T1"/>
+        <pin index="15" iostandard="LVCMOS33" loc="R2"/>
+      </pins>
+    </port>
+		
+    <port name="LED_16Bits" dir="out" left="15"  right="0">
+      <pins>
+        <pin index="0" iostandard="LVCMOS33" loc="U16"/>
+        <pin index="1" iostandard="LVCMOS33" loc="E19"/>
+        <pin index="2" iostandard="LVCMOS33" loc="U19"/>
+        <pin index="3" iostandard="LVCMOS33" loc="V19"/>
+		<pin index="4" iostandard="LVCMOS33" loc="W18"/>
+        <pin index="5" iostandard="LVCMOS33" loc="U15"/>
+        <pin index="6" iostandard="LVCMOS33" loc="U14"/>
+        <pin index="7" iostandard="LVCMOS33" loc="V14"/>
+		<pin index="8" iostandard="LVCMOS33" loc="V13"/>
+        <pin index="9" iostandard="LVCMOS33" loc="V3"/>
+        <pin index="10" iostandard="LVCMOS33" loc="W3"/>
+        <pin index="11" iostandard="LVCMOS33" loc="U3"/>
+		<pin index="12" iostandard="LVCMOS33" loc="P3"/>
+        <pin index="13" iostandard="LVCMOS33" loc="N3"/>
+        <pin index="14" iostandard="LVCMOS33" loc="P1"/>
+        <pin index="15" iostandard="LVCMOS33" loc="L1"/>
+      </pins>
+    </port>
+	    
+    <port name="BTN_5Bits" dir="in" left="3"  right="0">
+      <pins>
+        <pin index="0" iostandard="LVCMOS33" loc="T18"/>
+        <pin index="1" iostandard="LVCMOS33" loc="W19"/>
+        <pin index="2" iostandard="LVCMOS33" loc="T17"/>
+        <pin index="3" iostandard="LVCMOS33" loc="U17"/>
+      </pins>
+    </port>
+
+	<port name="RESET" dir="in" >
+      <pins>
+        <pin iostandard="LVCMOS33" loc="U18"/>
+      </pins>
+    </port>
+	
+
+   <port name="SEVEN_SEG_LED" dir="out" left="7"  right="0">
+      <pins>
+        <pin index="0" iostandard="LVCMOS33" loc="W7"/>
+        <pin index="1" iostandard="LVCMOS33" loc="W6"/>
+        <pin index="2" iostandard="LVCMOS33" loc="U8"/>
+        <pin index="3" iostandard="LVCMOS33" loc="V8"/>
+		<pin index="4" iostandard="LVCMOS33" loc="U5"/>
+        <pin index="5" iostandard="LVCMOS33" loc="V5"/>
+        <pin index="6" iostandard="LVCMOS33" loc="U7"/>
+		<pin index="7" iostandard="LVCMOS33" loc="V7"/>
+      </pins>
+    </port>		
+	
+   <port name="SEVEN_SEG_AN" dir="out" left="3"  right="0">
+      <pins>
+        <pin index="0" iostandard="LVCMOS33" loc="U2"/>
+        <pin index="1" iostandard="LVCMOS33" loc="U4"/>
+        <pin index="2" iostandard="LVCMOS33" loc="V4"/>
+        <pin index="3" iostandard="LVCMOS33" loc="W4"/>
+      </pins>
+    </port>	
+
+    <port dir="in" name="USB_Uart_RxD">
+      <pins>
+        <pin iostandard="LVCMOS33" loc="B18"/>
+      </pins>
+    </port>
+    <port dir="out" name="USB_Uart_TxD">
+      <pins>
+        <pin iostandard="LVCMOS33" loc="A18"/>
+      </pins>
+    </port>    
+	
+    <port dir="in" name="clk">
+      <pins>
+        <pin iostandard="LVCMOS33" loc="W5"/>
+      </pins>
+    </port>
+	
+	</ports>
+
+</board_part>
