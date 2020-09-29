@@ -184,6 +184,7 @@
   - 全国大学生集成电路创新创业大赛参赛作品
 
 <h3>优秀开源项目 - 高级</h3>
+
 - [PYNQ集群 类脑计算](https://github.com/OpenHEC/SNN-simulator-on-PYNQcluster)
   - 板卡:`PYNQ`
   - 全国大学生FPGA创新设计作品
