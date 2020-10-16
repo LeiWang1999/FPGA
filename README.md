@@ -115,6 +115,8 @@
 
 - [FPGA 并行编程](https://github.com/xupsh/pp4fpgas-cn)
 
+- [Vivado HLS 基本应用与图像处理](https://www.bilibili.com/video/BV11b411e7m3)
+
 <h3>计算机体系结构</h3>
 
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
