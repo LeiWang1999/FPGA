@@ -122,6 +122,12 @@
 
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
 
+<h3>深度学习加速器</h3>
+
+- [PYNQ_Classification](https://leiblog.wang/static/FPGA/books/Accelerator/PYNQ_CLASSIFICATION.pdf)
+
+- [深度学习加速器设计与实验](https://www.bilibili.com/video/BV1ih411o7Yy?from=search&seid=3168767736458572847)
+
 <h3>硬件驱动</h3>
 
 - [AC620以太网驱动 芯航线](http://leiblog.wang/static/FPGA/books/HardwareDriver/AC620以太网设计与应用教程V1.0.pdf)
