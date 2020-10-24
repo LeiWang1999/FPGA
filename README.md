@@ -109,6 +109,7 @@
   - [Github](https://github.com/Xilinx/Pynq)
   - [Docs](https://pynq.readthedocs.io/en/v2.5.1/)
   - [DIscuss](https://discuss.pynq.io/)
+  - [PYNQ Z1 Digilent 中文指导手册](https://digilent-china.gitbook.io/)
 
 <h3>HLS 高层次综合s</h3>
 
