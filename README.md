@@ -194,3 +194,12 @@
 - [PYNQ集群 类脑计算](https://github.com/OpenHEC/SNN-simulator-on-PYNQcluster)
   - 板卡:`PYNQ`
   - 全国大学生FPGA创新设计作品
+
+<h2 align="center">四、推荐群组</h2>
+
+1. <Verilog编程艺术>
+- 类型：QQ群
+- 群号：361820636
+- 备注：群主几百年没有出现过了，也没有管理员，时常有广告
+
+2.
