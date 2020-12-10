@@ -147,6 +147,8 @@
 <h2 align="center">三、优秀项目</h2>
 <h3>官方开源项目</h3>
 
+- [ADI 超多开源HDL库](https://github.com/analogdevicesinc/hdl)
+
 - [ALINX 黑金 官方仓库 (包含OV系列摄像头驱动、DDR驱动等)](https://github.com/alinxalinx)
   - [AC616](https://github.com/alinxalinx/AC616)
   - [AX4010](https://github.com/alinxalinx/AX4010)
