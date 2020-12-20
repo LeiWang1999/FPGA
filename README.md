@@ -111,7 +111,7 @@
   - [DIscuss](https://discuss.pynq.io/)
   - [PYNQ Z1 Digilent 中文指导手册](https://digilent-china.gitbook.io/)
 
-<h3>HLS 高层次综合s</h3>
+<h3>HLS 高层次综合</h3>
 
 - [Xilinx 官方教程](http://xilinx.eetop.cn/list-83-1.html)
 
@@ -128,6 +128,10 @@
 - [PYNQ_Classification](https://leiblog.wang/static/FPGA/books/Accelerator/PYNQ_CLASSIFICATION.pdf)
 
 - [深度学习加速器设计与实验](https://www.bilibili.com/video/BV1ih411o7Yy?from=search&seid=3168767736458572847)
+
+- [NVDLA](http://nvdla.org/)
+
+- [VTA](https://tvm.apache.org/docs/vta/)
 
 <h3>硬件驱动</h3>
 
