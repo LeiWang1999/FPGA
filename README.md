@@ -123,7 +123,7 @@
 
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
 
-<h3>深度学习加速器</h3>
+<h3>深度神经网络加速器</h3>
 
 - [PYNQ_Classification](https://leiblog.wang/static/FPGA/books/Accelerator/PYNQ_CLASSIFICATION.pdf)
 
