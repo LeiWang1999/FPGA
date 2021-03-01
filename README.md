@@ -52,6 +52,7 @@
   - [Verilog数字系统设计教程 夏宇闻](http://leiblog.wang/static/FPGA/books/Verilog数字系统设计教程夏宇闻.pdf)
   - [Verilog经典教程 夏宇闻](http://leiblog.wang/static/FPGA/books/夏宇闻-Verilog经典教程.pdf)
   - [深入浅出FPGA](http://leiblog.wang/static/FPGA/books/深入浅出FPGA.pdf)
+  - [Vivado使用误区与进阶](https://leiblog.wang/static/FPGA/books/Vivado使用误区与进阶.pdf)
 - 网路上生动的大神教程
   - [Artix7修炼秘籍](http://leiblog.wang/static/FPGA/books/00《Artix7修炼秘籍》-MIA701第一季.pdf)
   - [Verilog那些事儿](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/)
