@@ -8,6 +8,8 @@
 
 - [Vivado2020.1](http://leiblog.wang/static/FPGA/Xilinx_Unified_2020.1_0602_1208.tar.gz)
 
+- [Vivado License](https://github.com/LeiWang1999/FPGA/tree/master/license)
+
 <h2 align="center">一、入门资料</h2>
 
 <h3>FPGA相关门户网站</h3>
