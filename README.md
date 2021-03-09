@@ -15,6 +15,7 @@
 <h3>FPGA相关门户网站</h3>
 
 - [Xilinx](https://www.xilinx.com/)
+- [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview)
 - [Xilinx Forums](https://forums.xilinx.com/)
 - [Xilinx Open Hardware](http://www.openhw.org/)
 - [电子创新网Xilinx社区](http://xilinx.eetrend.com/)
