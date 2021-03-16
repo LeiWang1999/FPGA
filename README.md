@@ -25,6 +25,7 @@
 - [米联客](https://www.uisrc.com/portal.php)
 - [opencores 开源硬件IP站](https://opencores.org/)
 - [FPGA FOR FUN](https://www.fpga4fun.com/CrossClockDomain.html)
+- [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 
 <h3 id="github">每个人都应该会使用GitHub</h3>
 
@@ -182,6 +183,9 @@
   - [74LSXX 芯片IP](https://github.com/xupsh/Digital-Design-Reference-Design/tree/dd239f50d5117917479b7a3b51eeb8a0d6945cc9/Library/74LSXX_Lib)
 
 <h3>优秀开源项目 - 初级</h3>
+
+- [Verilog Practice](https://github.com/xiaop1/Verilog-Practice)
+  - Verilog训练
 
 - [带闹钟功能的计数器](https://github.com/LeiWang1999/DigitalAlarmClock)
   - 板卡:`Nexys4 DDR`
