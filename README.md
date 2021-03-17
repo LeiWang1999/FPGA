@@ -130,6 +130,8 @@
 
 - [Chisel 学习路线](https://blog.csdn.net/qq_34291505/article/details/86744581)
 
+- [Chisel 入门资料](https://zhuanlan.zhihu.com/p/98097268)
+
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
 
 - [手把手教你设计CPU——RISC-V处理器篇](https://leiblog.wang/static/FPGA/books/%E3%80%8A%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%AE%BE%E8%AE%A1CPU%E2%80%94%E2%80%94RISC-V%E5%A4%84%E7%90%86%E5%99%A8%E7%AF%87%E3%80%8B.pdf)
