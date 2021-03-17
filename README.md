@@ -125,7 +125,10 @@
 
 - [Vivado HLS 基本应用与图像处理](https://www.bilibili.com/video/BV11b411e7m3)
 
+
 <h3>计算机体系结构</h3>
+
+- [Chisel 学习路线](https://blog.csdn.net/qq_34291505/article/details/86744581)
 
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
 
