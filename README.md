@@ -210,7 +210,7 @@
 - [CM3软核 FPGA 车牌识别系统](https://github.com/Starrynightzyq/Nexys4DDR-ARM-M3-Plate-Recognition)
   - 板卡:`Nexys4 DDR`
   - 全国大学生集成电路创新创业大赛参赛作品
-- [Yolov2加速器设计]
+- [Yolov2加速器设计](https://github.com/dhm2013724/yolov2_xilinx_fpga)
   - 板卡:`PYNQ-Z2|ZedBoard|ZCU102`
   - 很不错的加速器设计方案
 
