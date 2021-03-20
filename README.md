@@ -11,7 +11,7 @@
 - [Vivado License](https://github.com/LeiWang1999/FPGA/tree/master/license)
 - [PetaLinux 2017.4](https://leiblog.wang/bigfile/petalinux-v2017.4-final-installer.zip)
 - [pynq_rootfs-arm_v2.4](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.4.zip)
- - 用来custom PYNQ image
+  - 用来custom PYNQ image
 
 <h2 align="center">一、入门资料</h2>
 
@@ -118,6 +118,7 @@
   - [Docs](https://pynq.readthedocs.io/en/v2.5.1/)
   - [DIscuss](https://discuss.pynq.io/)
   - [PYNQ Z1 Digilent 中文指导手册](https://digilent-china.gitbook.io/)
+  - [PYNQ 镜像制作](https://pynq.readthedocs.io/en/latest/pynq_sd_card.html#prepare-the-building-environment)
 
 <h3>HLS 高层次综合</h3>
 
