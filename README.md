@@ -11,7 +11,7 @@
 - [Vivado License](https://github.com/LeiWang1999/FPGA/tree/master/license)
 - [PetaLinux 2017.4](https://leiblog.wang/bigfile/petalinux-v2017.4-final-installer.zip)
 - [pynq_rootfs-arm_v2.4](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.4.zip)
-  - 用来custom PYNQ image，看这一章(https://pynq.readthedocs.io/en/latest/pynq_sd_card.html#prepare-the-building-environment)
+  - 用来custom PYNQ image，看[这一章](https://pynq.readthedocs.io/en/latest/pynq_sd_card.html#prepare-the-building-environment)
 
 <h2 align="center">一、入门资料</h2>
 
