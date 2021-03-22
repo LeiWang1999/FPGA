@@ -115,6 +115,7 @@
 
 - [PYNQ](http://www.pynq.io/)
   - [Github](https://github.com/Xilinx/Pynq)
+  - [xupsh pynqdoc](https://github.com/xupsh/pynqdoc)
   - [Docs](https://pynq.readthedocs.io/en/v2.5.1/)
   - [DIscuss](https://discuss.pynq.io/)
   - [PYNQ Z1 Digilent 中文指导手册](https://digilent-china.gitbook.io/)
