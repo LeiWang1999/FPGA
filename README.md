@@ -140,6 +140,8 @@
 
 - [手把手教你设计CPU——RISC-V处理器篇](https://leiblog.wang/static/FPGA/books/%E3%80%8A%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%AE%BE%E8%AE%A1CPU%E2%80%94%E2%80%94RISC-V%E5%A4%84%E7%90%86%E5%99%A8%E7%AF%87%E3%80%8B.pdf)
 
+- [RISC-V 2020 Digilent](http://www.digilent.com.cn/community/697.html)
+
 <h3>深度神经网络加速器</h3>
 
 - [PYNQ_Classification](https://leiblog.wang/static/FPGA/books/Accelerator/PYNQ_CLASSIFICATION.pdf)
