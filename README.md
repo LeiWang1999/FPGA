@@ -104,7 +104,8 @@
 - [IEEE_Verilog](http://leiblog.wang/static/FPGA/books/standard/IEEE_Verilog.pdf)
 
 <h3>商业报告</h3>
--[电子设备-电子行业专题报告：国产FPGA研究框架-方正证券](https://leiblog.wang/static/FPGA/books/%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87-%E7%94%B5%E5%AD%90%E8%A1%8C%E4%B8%9A%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%9B%BD%E4%BA%A7FPGA%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6-%E6%96%B9%E6%AD%A3%E8%AF%81%E5%88%B8[%E9%99%88%E6%9D%AD]-20201018%E3%80%90113%E9%A1%B5%E3%80%91.pdf)
+
+- [电子设备-电子行业专题报告：国产FPGA研究框架-方正证券](https://leiblog.wang/static/FPGA/books/%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87-%E7%94%B5%E5%AD%90%E8%A1%8C%E4%B8%9A%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%9B%BD%E4%BA%A7FPGA%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6-%E6%96%B9%E6%AD%A3%E8%AF%81%E5%88%B8[%E9%99%88%E6%9D%AD]-20201018%E3%80%90113%E9%A1%B5%E3%80%91.pdf)
 
 <h2 align="center">二、进阶资料</h2>
 <h3>SOC System on Chip</h3>
