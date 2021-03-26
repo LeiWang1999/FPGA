@@ -61,6 +61,8 @@
   - [Verilog经典教程 夏宇闻](http://leiblog.wang/static/FPGA/books/夏宇闻-Verilog经典教程.pdf)
   - [深入浅出FPGA](http://leiblog.wang/static/FPGA/books/深入浅出FPGA.pdf)
   - [Vivado使用误区与进阶](https://leiblog.wang/static/FPGA/books/Vivado使用误区与进阶.pdf)
+  - [Xilinx应用进阶 调用IP核详解和设计开发](https://leiblog.wang/static/FPGA/books/Xilinx%20FPGA%E5%BA%94%E7%94%A8%E8%BF%9B%E9%98%B6%20%20%E9%80%9A%E7%94%A8IP%E6%A0%B8%E8%AF%A6%E8%A7%A3%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%BC%80%E5%8F%91%20[%E9%BB%84%E4%B8%87%E4%BC%9F%E7%BC%96%E8%91%97][%E7%94%B5%E5%AD%90%E5%B7%A5%E4%B8%9A%E5%87%BA%E7%89%88%E7%A4%BE][2014.08][274%E9%A1%B5].pdf)
+  
 - 网路上生动的大神教程
   - [Artix7修炼秘籍](http://leiblog.wang/static/FPGA/books/00《Artix7修炼秘籍》-MIA701第一季.pdf)
   - [Verilog那些事儿](http://leiblog.wang/static/FPGA/books/Verilog那些事儿/)
@@ -71,6 +73,8 @@
   - [Xilinx原语的使用方法](http://leiblog.wang/static/FPGA/books/xilinx原语的使用方法.pdf)
   - [FPGA自学笔记-设计与验证](http://leiblog.wang/static/FPGA/books/FPGA自学笔记——设计与验证公开版.pdf)
   - [Verilog开发经验总结](http://leiblog.wang/static/FPGA/books/Verilog开发经验总结.pdf)
+  - [猫叔的FPGA时序约束教程](https://leiblog.wang/static/FPGA/books/%E7%8C%AB%E5%8F%94%E7%9A%84FPGA%E6%97%B6%E5%BA%8F%E7%BA%A6%E6%9D%9F%E6%95%99%E7%A8%8B.pdf)
+  - [Xilinx系列FPGA芯片IP核详解](https://leiblog.wang/static/FPGA/books/Xilinx%E7%B3%BB%E5%88%97FPGA%E8%8A%AF%E7%89%87IP%E6%A0%B8%E8%AF%A6%E8%A7%A3_%E5%88%98%E4%B8%9C%E5%8D%8E%E7%BC%96%E8%91%97.pdf)
 - 官方pdf文档
   - [Vivado从此开始](http://leiblog.wang/static/FPGA/books/Vivado从此开始/)
   - [Verilog HDL程序设计与实践 Xilinx大学计划](http://leiblog.wang/static/FPGA/books/VerilogHDL程序设计与实践.pdf)
@@ -92,11 +96,15 @@
   - [Digilent Boards 全家桶]( https://github.com/Digilent/vivado-boards)
 - [ModelSim与Matlab搭建图像仿真环境(无需上板即可验证Verilog算法!)](http://leiblog.wang/technicaldetail/5e397c7937a947e1fa893314)
 - [Python实现Vivado和ModelSim仿真自动化](https://mp.weixin.qq.com/s/LvmzGJt4ywOUXO7TfyPtcg)
+- [SystemVerilog与功能验证](https://leiblog.wang/static/FPGA/books/SystemVerilog%E4%B8%8E%E5%8A%9F%E8%83%BD%E9%AA%8C%E8%AF%81%C2%81.pdf)
 
 <h3>规范你的工程🌟</h3>
 
 - [华为verilog编程规范](http://leiblog.wang/static/FPGA/books/standard/华为verilog编程规范.pdf)
 - [IEEE_Verilog](http://leiblog.wang/static/FPGA/books/standard/IEEE_Verilog.pdf)
+
+<h3>商业报告</h3>
+-[电子设备-电子行业专题报告：国产FPGA研究框架-方正证券](https://leiblog.wang/static/FPGA/books/%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87-%E7%94%B5%E5%AD%90%E8%A1%8C%E4%B8%9A%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%9B%BD%E4%BA%A7FPGA%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6-%E6%96%B9%E6%AD%A3%E8%AF%81%E5%88%B8[%E9%99%88%E6%9D%AD]-20201018%E3%80%90113%E9%A1%B5%E3%80%91.pdf)
 
 <h2 align="center">二、进阶资料</h2>
 <h3>SOC System on Chip</h3>
