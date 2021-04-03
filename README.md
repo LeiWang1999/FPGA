@@ -14,6 +14,7 @@
 - [PetaLinux 2018.3](https://leiblog.wang/bigfile/petalinux-v2018.3-final-installer.zip)
 - [PetaLinux 2019.1](https://leiblog.wang/bigfile/petalinux-v2019.1-final-installer.zip)
 - [pynq_rootfs-arm_v2.4](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.4.zip)
+- [pynq_rootfs-arm_v2.5](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.5.zip)
   - 用来custom PYNQ image，看[这一章](https://pynq.readthedocs.io/en/latest/pynq_sd_card.html#prepare-the-building-environment)
 
 <h2 align="center">一、入门资料</h2>
