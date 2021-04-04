@@ -15,7 +15,6 @@
 - [PetaLinux 2019.1](https://leiblog.wang/bigfile/petalinux-v2019.1-final-installer.zip)
 - [pynq_rootfs-arm_v2.4](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.4.zip)
 - [pynq_rootfs-arm_v2.5](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.5.zip)
-  - 用来custom PYNQ image，看[这一章](https://pynq.readthedocs.io/en/latest/pynq_sd_card.html#prepare-the-building-environment)
 
 <h2 align="center">一、入门资料</h2>
 
@@ -179,6 +178,9 @@
 
 - [CAN](https://mp.weixin.qq.com/s?__biz=MzI4NjE3MzUwMA==&mid=2652138778&idx=1&sn=144a45d6f49f51613a399eac5ff7a257&chksm=f0003d49c777b45fa9dc06810638906f5fead6acc311b450c96d541f3cd44f35869809d722fd&token=272554766&lang=zh_CN&scene=21#wechat_redirect)
 
+<h3>操作系统</h3>
+
+- [Petalinux 中文文档](https://china.xilinx.com/support/documentation/sw_manuals/xilinx2019_1/c_ug1144-petalinux-tools-reference-guide.pdf)
 
 <h2 align="center">三、优秀项目</h2>
 <h3>官方开源项目</h3>
