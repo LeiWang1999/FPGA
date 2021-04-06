@@ -146,6 +146,8 @@
 
 - [Chisel 学习路线](https://blog.csdn.net/qq_34291505/article/details/86744581)
 
+- [Chisel Book Chinese](http://www.imm.dtu.dk/~masca/chisel-book-chinese.pdf)
+
 - [Chisel 入门资料](https://zhuanlan.zhihu.com/p/98097268)
 
 - [CPU自制入门](http://leiblog.wang/static/FPGA/books/CPU自制入门.pdf)
