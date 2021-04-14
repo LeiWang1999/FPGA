@@ -9,7 +9,7 @@
 - [Vivado2018.3](https://leiblog.wang/bigfile/Xilinx_Vivado_SDK_2018.3_1207_2324.tar.gz)
 - [Vivado2019.1](https://leiblog.wang/bigfile/Xilinx_Vivado_SDK_2019.1_0524_1430.tar.gz)
 - [Vivado2020.1](http://leiblog.wang/bigfile/Xilinx_Unified_2020.1_0602_1208.tar.gz)
-- [Vivado 多版本安装包 百度网版](https://pan.baidu.com/s/1op98YUPNqSfqAN2UeywlNA)（提取码：DZKR）
+- [Vivado 多版本安装包 百度网盘](https://pan.baidu.com/s/1op98YUPNqSfqAN2UeywlNA)（提取码：DZKR）
 - [Vivado License](https://github.com/LeiWang1999/FPGA/tree/master/license)
 - [PetaLinux 2017.4](https://leiblog.wang/bigfile/petalinux-v2017.4-final-installer.zip)
 - [PetaLinux 2018.3](https://leiblog.wang/bigfile/petalinux-v2018.3-final-installer.zip)
