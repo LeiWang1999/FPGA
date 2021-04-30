@@ -16,7 +16,7 @@
 - [PetaLinux 2019.1](https://leiblog.wang/bigfile/petalinux-v2019.1-final-installer.zip)
 - [pynq_rootfs-arm_v2.4](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.4.zip)
 - [pynq_rootfs-arm_v2.5](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.5.zip)
-- [Ubuntu 16.04 根文件系统](https://leiblog.wang/bigfile/ubuntu-16.04.2-minimal-armhf-2017-06-18.zip)
+- [Ubuntu-16.04.2-minimal-armhf-2017-06-18](https://leiblog.wang/bigfile/ubuntu-16.04.2-minimal-armhf-2017-06-18.zip)
 
 <h2 align="center">一、入门资料</h2>
 
