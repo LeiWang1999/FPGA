@@ -243,6 +243,8 @@
   - 很不错的加速器设计方案
 - [Pynq Accelerator](https://github.com/LeiWang1999/Pynq-Accelerator)
   - 板卡:`PYNQ-Z1`
+- [ZYNQ NVDLA](https://github.com/LeiWang1999/ZYNQ-NVDLA)
+  - 板卡：`ZYNQ 7045 | ZCU 102`
 
 <h3>优秀开源项目 - 高级</h3>
 
