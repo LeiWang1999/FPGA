@@ -8,12 +8,9 @@
 
 - [Vivado 多版本安装包 百度网盘](https://pan.baidu.com/s/1op98YUPNqSfqAN2UeywlNA)（提取码：DZKR）
 - [Vivado License](https://github.com/LeiWang1999/FPGA/tree/master/license)
-- [PetaLinux 2017.4](https://leiblog.wang/bigfile/petalinux-v2017.4-final-installer.zip)
-- [PetaLinux 2018.3](https://leiblog.wang/bigfile/petalinux-v2018.3-final-installer.zip)
-- [PetaLinux 2019.1](https://leiblog.wang/bigfile/petalinux-v2019.1-final-installer.zip)
-- [pynq_rootfs-arm_v2.4](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.4.zip)
-- [pynq_rootfs-arm_v2.5](https://leiblog.wang/bigfile/pynq_rootfs_arm_v2.5.zip)
-- [Ubuntu-16.04.2-minimal-armhf-2017-06-18](https://leiblog.wang/bigfile/ubuntu-16.04.2-minimal-armhf-2017-06-18.zip)
+- [PetaLinux 2017.4](https://pan.baidu.com/s/1xZVsQVMPowDfQhBysLQ-1A)(提取码：rlcv)
+- [pynq_rootfs-arm_v2.4-2.5](https://pan.baidu.com/s/1JFgg0Pezk0mBub8zMdcYyA)（提取码：rn0h）
+- [Ubuntu-16.04.2-minimal-armhf-2017-06-18](https://pan.baidu.com/s/1mMWF8H2xEtbE5ayJ7pdGTw)(提取码：nckh)
 
 <h2 align="center">一、入门资料</h2>
 
