@@ -74,7 +74,7 @@
   - [猫叔的FPGA时序约束教程](https://leiblog.wang/static/FPGA/books/%E7%8C%AB%E5%8F%94%E7%9A%84FPGA%E6%97%B6%E5%BA%8F%E7%BA%A6%E6%9D%9F%E6%95%99%E7%A8%8B.pdf)
   - [Xilinx系列FPGA芯片IP核详解](https://leiblog.wang/static/FPGA/books/Xilinx%E7%B3%BB%E5%88%97FPGA%E8%8A%AF%E7%89%87IP%E6%A0%B8%E8%AF%A6%E8%A7%A3_%E5%88%98%E4%B8%9C%E5%8D%8E%E7%BC%96%E8%91%97.pdf)
   - [数字集成电路静态时序分析基础](https://www.bilibili.com/video/BV1if4y1p7Dq)
-  - [综合与Design Compiler](http://leiblog.wang/static/FPGA/books/综合与Design Compiler.pdf)
+  - [综合与Design Compiler](http://leiblog.wang/static/FPGA/books/综合与DesignCompiler.pdf)
 - 官方pdf文档
   - [Vivado从此开始](http://leiblog.wang/static/FPGA/books/Vivado从此开始/)
   - [Verilog HDL程序设计与实践 Xilinx大学计划](http://leiblog.wang/static/FPGA/books/VerilogHDL程序设计与实践.pdf)
