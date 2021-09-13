@@ -240,12 +240,17 @@
   - 板卡:`PYNQ-Z1`
 - [ZYNQ NVDLA](https://github.com/LeiWang1999/ZYNQ-NVDLA)
   - 板卡：`ZYNQ 7045 | ZCU 102`
+  - 开源加速器的解决方案、**可以跑任意网络！**
+- [FPGA Support for Vscode](https://github.com/Bestduan/fpga_support_plug)
+  - 北邮的一个大佬开源的Vscode写FPGA的项目
 
 <h3>优秀开源项目 - 高级</h3>
 
 - [PYNQ集群 类脑计算](https://github.com/OpenHEC/SNN-simulator-on-PYNQcluster)
   - 板卡:`PYNQ`
   - 全国大学生FPGA创新设计作品
+- [basicmi/AI Chip](https://github.com/basicmi/AI-Chip)
+  - 关于 AI 芯片的跟踪report仓库
 
 <h2 align="center">四、推荐群组</h2>
 
