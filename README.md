@@ -184,6 +184,20 @@
 
 - [Petalinux 中文文档](https://china.xilinx.com/support/documentation/sw_manuals/xilinx2019_1/c_ug1144-petalinux-tools-reference-guide.pdf)
 
+### 还得是B站
+
+- [数字集成电路静态时序分析基础](https://www.bilibili.com/video/av290295377)
+
+  想知道电路运行的最大频率吗？
+
+- [数字芯片设计基础](https://www.bilibili.com/video/BV12V411r7BD/)
+
+### 还得是知乎
+
+- [为什么ASIC的频率可以达到GHz，而FPGA只能达到几百MHz？](https://www.zhihu.com/question/51179323/answer/124680433)
+
+
+
 <h2 align="center">三、优秀项目</h2>
 <h3>官方开源项目</h3>
 
