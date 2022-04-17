@@ -196,6 +196,9 @@
 
 - [为什么ASIC的频率可以达到GHz，而FPGA只能达到几百MHz？](https://www.zhihu.com/question/51179323/answer/124680433)
 
+### 还得是steam
+
+- [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/?l=tchinese)
 
 
 <h2 align="center">三、优秀项目</h2>
