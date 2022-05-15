@@ -195,6 +195,7 @@
 ### 还得是知乎
 
 - [为什么ASIC的频率可以达到GHz，而FPGA只能达到几百MHz？](https://www.zhihu.com/question/51179323/answer/124680433)
+- [Github 上有哪些优秀的 Verilog/FPGA 项目？](https://www.zhihu.com/question/348990787/answer/2486699396)
 
 
 
